@@ -5,7 +5,7 @@ function CardDetails() {
       <div className="space-y-4">
         <div>
           <label className="block text-sm mb-1 text-[#2B3674]">
-            Cardholder's name
+            Cardholder&apos;s name
           </label>
           <input
             type="text"
